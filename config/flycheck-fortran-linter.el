@@ -1,0 +1,1 @@
+/home/ccc/Documents/prog/fortran-linter/flycheck-fortran-linter.el
